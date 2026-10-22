@@ -9,6 +9,12 @@
 
 ---
 
+### 🌐 Tautan & Portofolio
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffafahriyadin?rpxt=bGViNzRuc29yNnc0)
+[![Portofolio / Web](https://img.shields.io/badge/Portofolio_Web-2563EB?style=for-the-badge&logo=g bgoogle-chrome&logoColor=white)](https://LINK_WEB_PORTOFOLIO_ANDA.com)
+
+---
+
 ### 🛠️ Bahasa & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
