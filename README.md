@@ -11,7 +11,7 @@
 
 ### 🌐 Tautan & Portofolio
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffafahriyadin?rpxt=bGViNzRuc29yNnc0)
-[![Portofolio / Web](https://img.shields.io/badge/Portofolio_Web-2563EB?style=for-the-badge&logo=g bgoogle-chrome&logoColor=white)](https://LINK_WEB_PORTOFOLIO_ANDA.com)
+[![Portofolio / Web](https://img.shields.io/badge/Portofolio_Web-2563EB?style=for-the-badge&logo=g bgoogle-chrome&logoColor=white)](https://epepjutaa-netizen.github.io/portofolio-saya/)
 
 ---
 
